@@ -99,7 +99,7 @@ header.masthead {
   overflow: hidden;
   padding-top: calc(5rem + 72px);
   padding-bottom: 7rem;
-  background-image: url(../img/banner2.jpg);
+  background-image: url(../img/banner3.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: scroll;
@@ -112,12 +112,12 @@ header.masthead .masthead-content {
 }
 
 header.masthead .masthead-content .masthead-heading {
-  font-size: 3rem;
+  font-size: 2rem;
   letter-spacing: 0.25rem;
 }
 
 header.masthead .masthead-content .masthead-subheading {
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 
 .masthead-container {
